@@ -1,4 +1,4 @@
-# Business Evaluator
+# Equity Research Engine
 
 A comprehensive company evaluation platform for **investors**, **venture capitalists**, **private equity firms**, and **traders**. Enter any public company's ticker and get a full investment analysis powered by SEC EDGAR data.
 
